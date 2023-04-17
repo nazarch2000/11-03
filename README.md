@@ -56,6 +56,8 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
 
+![image](https://user-images.githubusercontent.com/106932460/232498759-2579ff60-498d-4264-a2fe-16232d77a6d4.png)
+
 ---
 
 ### Задание 4. Filebeat. 
