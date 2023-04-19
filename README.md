@@ -72,7 +72,11 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.*
 
-Логи идут через filebeat в logstash
+Логи идут через filebeat в logstash, вот файлы конфигурации
+(filebeat.yml)[filebeat.yml]
+(logstash.conf)[logstash.conf]
+
+![image](https://user-images.githubusercontent.com/106932460/233119374-f07ba9bf-8e4e-4972-a633-8c68350356bd.png)
 
 ![image](https://user-images.githubusercontent.com/106932460/233118776-52a87fa8-462a-4ac6-b491-942f35699d94.png)
 
