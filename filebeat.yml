@@ -6,3 +6,5 @@ filebeat.inputs:
 processors:
   - drop_fields:
       fields: ["beat", "input_type", "prospector", "input", "host", "agent", "ecs"]
+output.logstash:
+  hosts: ["127.0.0.1:5044"]
